@@ -1,5 +1,3 @@
-// Renan de Oliveira da Cruz
-// Nº USP 10801090
 
 #include <stdio.h>
 #include <stdlib.h>

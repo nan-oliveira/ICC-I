@@ -1,7 +1,4 @@
-/* Renan de Oliveira da Cruz
-   Nº USP: 10801090
-   Exercicio: Lê a data de nascimento e a data atual e mostra a idade*/
- 
+
 #include <stdio.h>
 
 int main(){
